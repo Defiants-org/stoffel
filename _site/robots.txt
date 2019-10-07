@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/zentribes.org/sitemap.xml
+Sitemap: http://localhost:4000/stoffel/sitemap.xml
