@@ -14,10 +14,11 @@ keep_files:
 
 
 # Site settings
-title: "Human centric marketing for p2p & social impact startups"
+title: "On my way home"
 subtitle:
-description: "Zentribes is a non-profit organization that helps startups effectively engage their community."
-keywords: "Social Media, Impact, Events, p2p, brand identity, marketing strategy, project, community, web development"
+description: "On My Way Home is een veelkleurig testament van deze generatie over de uitdagingen van
+echte connectie, het maken van levenskeuzes en het vinden van balans met de natuur."
+keywords: 
 url:  # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/stoffel"
