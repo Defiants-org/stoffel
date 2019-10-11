@@ -74,19 +74,18 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 20px;
-  height: 70%;
-  Width: 450px;
+  padding-top: 30px;
+  font-size: 20px;
 }
 header .navbar-default {
   background: none;
   border: 0px;
 }
 header .navbar-default .navbar-nav {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #888;
   padding: 10px 26px;
   font-size: 20px;
 }
@@ -188,8 +187,10 @@ header .navbar-default .navbar-nav a:hover {
   padding-top: 20px;
 }
 #intro .par1 img {
-  width: 45.3%;
+  width: 75.5%;
+padding-left: 150px;
   padding-top: 20px;
+
 }
 
 #intro .img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
@@ -587,10 +588,10 @@ color: #545454 !important;
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/bg.jpg") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
+  padding-top: 200px;
+  padding-bottom: 120px;
   position: relative;
   background-attachment: fixed;
 }
@@ -603,11 +604,11 @@ color: #545454 !important;
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, #ffffff, #dedede);
   opacity: 0.8;
 }
 #global-header .block {
-  color: #E3E3E4;
+  color: #888;
   margin: 0 auto;
   padding-left: 90px;
   text-align: center;
@@ -836,7 +837,7 @@ color: #545454 !important;
 	slider-contact Start
 --*/
 #slider-contact {
-  background: url("/img/bg.jpg") no-repeat;
+  background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -851,7 +852,7 @@ color: #545454 !important;
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #ffffff, #dedede 70%);
+  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
   opacity: 0.8;
 }
 #slider-contact .block {
@@ -1003,7 +1004,7 @@ color: #545454 !important;
 	footer Start
 --*/
 footer {
-  background: #dbf0ed;
+  background: #ecf7f2;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;

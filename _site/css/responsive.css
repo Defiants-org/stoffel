@@ -20,9 +20,9 @@ px      68    160    252    344    436    528    620    712    */
 
 
 #intro .par1 img {
-
-  width: 132.5%;
-  height: 800px;
+    width: 75.5%;
+    padding-left: 150px;
+    padding-top: 20px;
 }
 }
 
@@ -34,10 +34,18 @@ px      68    160    252    344    436    528    620    712    */
 
 
 #intro .par1 img {
+    margin-top: 10px;
+    width: 100%;
+    height: 350px;
+    padding-left: 90px;
+    padding-right: 60px;
+}
 
-margin-top: 70px;
-  width: 111%;
-  height: 500px;
+
+#slider h3 {
+  padding-right: 5px;
+  text-align: left;
+  margin-top: -400px;
 }
 
   /*--
@@ -212,10 +220,11 @@ px      68    160    252    */
   --*/
 
   header .navbar-brand {
-    padding-top: 40px;
-    Width: 400px;
-    margin-bottom: 10px;
-}
+      padding-top: 2px;
+      Width: 400px;
+      margin-bottom: -55px;
+      margin-top: 30px;
+  }
 
 
 header .navbar-default .navbar-toggle {
@@ -223,6 +232,9 @@ header .navbar-default .navbar-toggle {
     margin-bottom: 20px;
 }
 
+header .navbar-default .navbar-nav {
+    padding-top: 0px;
+}
 
 
   /*--
@@ -241,9 +253,21 @@ header .navbar-default .navbar-toggle {
       text-align: center;
   }
   #slider .block p {
-    font-size: 23px;
+    font-size: 18px;
       text-align: center;
       padding-right: 0px;
+  }
+
+  #slider .par1 img {
+      width: 50.3%;
+      padding-top: 20px;
+      margin-left: 180px;
+  }
+
+  #slider h3 {
+    padding-right: 5px;
+    text-align: center;
+    margin-top: 1px;
   }
 
   /*--
@@ -251,10 +275,20 @@ header .navbar-default .navbar-toggle {
 --*/
 
 #intro .par1 img {
-  width: 103%;
-  height: 500px;
+  width: 105.3%;
+  height: 300px;
+  padding-top: 20px;
+  padding-left: 280px;
+  padding-right: 280px;
   margin-top: 0px;
-  padding-top: 0px;
+  margin-bottom: 40px;
+}
+
+#intro .block p {
+    font-family: 'Roboto', sans-serif;
+    color: #7B7B7B;
+    padding-top: 20px;
+    text-align: center;
 }
 
 
@@ -531,7 +565,7 @@ px      68    160    252    344    436    */
   --*/
 
   header .navbar-brand {
-    padding-top: 20px;
+    padding-top: 35px;
     Width: 80%;
   }
 
@@ -564,11 +598,16 @@ px      68    160    252    344    436    */
     text-align: center;
   }
 
+  #slider h3 {
+    padding-right: 5px;
+    text-align: center;
+  }
+
   /*--
   	Intro Start
   --*/
   #intro {
-    padding: 100px 0;
+    padding: 40px 0;
   }
   #intro .block h1 {
     text-align: center;
@@ -580,67 +619,15 @@ px      68    160    252    344    436    */
     text-align: center;
   }
   #intro .par1 img {
-    width: 103.8%;
+    width: 105.3%;
     height: 300px;
-padding-top: 20px;
+    padding-top: 20px;
+    padding-left: 105px;
+    padding-right: 105px;
+    margin-top: 0px;
+    margin-bottom: 40px;
 
   }
-
-  /*--
-    Feature Start
-  --*/
-  #feature {
-    padding: 100px 0 50px;
-    background: url("../img/smh2.png") no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 10% 50%;
-    position: relative;
-  }
-
-  #feature .feature {
-    padding: 50px 10px 50px 20px;
-  }
-
-  #feature h1 {
-  text-align: center;
-  }
-  #feature p {
-    font-size: 20px;
-    padding-right: 5px;
-    text-align: center;
-  }
-
-
-  #feature .btn-contact {
-    margin: 5px 0 100px 125px;
-    font-size: 17px;
-  }
-
-  #feature .btn-contact {
-    padding: 1px 20px;
-}
-
-  #feature .feature2 {
-    padding-top: 0px;
-    padding-left: 15px;
-}
-
-  /*--
-    Service Start
-  --*/
-
-  #service {
-    padding-top: 100px;
-}
-
-
-#team .team-members .team-avatar img {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    width: 90%;
-}
 
 /*--
   Contact Start
@@ -671,8 +658,8 @@ padding-top: 20px;
   --*/
 
   header .navbar-brand {
-    padding-top: 20px;
-    Width: 80%;
+    padding-top: 40px;
+        Width: 80%;
   }
 
   .navbar-toggle {
@@ -704,11 +691,15 @@ padding-top: 20px;
     text-align: center;
   }
 
+  #slider h3 {
+    padding-right: 5px;
+    text-align: center;
+  }
   /*--
   	Intro Start
   --*/
   #intro {
-    padding: 100px 0;
+    padding: 40px 0;
   }
   #intro .block h1 {
     text-align: center;
@@ -720,64 +711,14 @@ padding-top: 20px;
     text-align: center;
   }
   #intro .par1 img {
-    width: 104.3%;
+    width: 105.3%;
     height: 300px;
-padding-top: 20px;
+    padding-top: 20px;
+    padding-left: 78px;
+    padding-right: 78px;
+    margin-top: 0px;
+    margin-bottom: 40px;
   }
-
-  /*--
-    Feature Start
-  --*/
-  #feature {
-    padding: 100px 0 50px;
-    background: url("../img/smh2.png") no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 10% 50%;
-    position: relative;
-  }
-
-  #feature .feature {
-    padding: 50px 10px 50px 20px;
-  }
-
-  #feature h1 {
-  text-align: center;
-  }
-  #feature p {
-    font-size: 17px;
-    padding-right: 5px;
-    text-align: center;
-  }
-
-  #feature .btn-contact {
-    margin: 5px 0 100px 105px;
-    font-size: 17px;
-  }
-
-  #feature .btn-contact {
-    padding: 1px 20px;
-}
-
-  #feature .feature2 {
-    padding-top: 0px;
-    padding-left: 15px;
-}
-
-#team .team-members .team-avatar img {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    width: 90%;
-}
-
-  /*--
-    Service Start
-  --*/
-
-  #service {
-    padding-top: 100px;
-}
 
 /*--
   Contact Start
@@ -808,7 +749,7 @@ padding-top: 20px;
   --*/
 
   header .navbar-brand {
-    padding-top: 20px;
+    padding-top: 30px;
     Width: 75%;
   }
 
@@ -842,11 +783,16 @@ padding-top: 20px;
     text-align: center;
   }
 
+  #slider h3 {
+    padding-right: 5px;
+    text-align: center;
+  }
+
   /*--
   	Intro Start
   --*/
   #intro {
-    padding: 100px 0;
+    padding: 40px 0;
   }
   #intro .block h1 {
     text-align: center;
@@ -860,54 +806,11 @@ padding-top: 20px;
   #intro .par1 img {
     width: 105.3%;
     height: 300px;
-padding-top: 20px;
-  }
-
-  /*--
-  	Feature Start
-  --*/
-  #feature {
-  padding: 100px 0 50px;
-  background: url("../img/smh2.png") no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: 10% 50%;
-  position: relative;
-  }
-
-  #feature .feature {
-    padding: 50px 10px 50px 20px;
-  }
-
-  #feature h1 {
-  text-align: center;
-  }
-  #feature p {
-    font-size: 17px;
-    padding-right: 5px;
-    text-align: center;
-  }
-
-  #feature .btn-contact {
-    margin: 5px 0 100px 70px;
-    font-size: 17px;
-  }
-
-  #feature .btn-contact {
-    padding: 1px 20px;
-}
-
-  #feature .feature2 {
-    padding-top: 0px;
-    padding-left: 15px;
-}
-
-  /*--
-    Service Start
-  --*/
-
-  #service {
-    padding-top: 100px;
+    padding-top: 20px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-top: 0px;
+    margin-bottom: 40px;
   }
 
 
