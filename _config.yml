@@ -21,8 +21,8 @@ echte connectie, het maken van levenskeuzes en het vinden van balans met de natu
 keywords:
 url:  # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl:
-url: "https://christoffelhendrickx.be"
+baseurl: "/stoffel"
+
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
